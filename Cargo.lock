@@ -19,9 +19,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "compound"
+version = "0.1.0"
+
+[[package]]
+name = "control-flow"
+version = "0.1.0"
+
+[[package]]
 name = "fuchsia-cprng"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "function"
+version = "0.1.0"
 
 [[package]]
 name = "guessing_game"
@@ -32,6 +44,10 @@ dependencies = [
 
 [[package]]
 name = "hello_world"
+version = "0.1.0"
+
+[[package]]
+name = "integer"
 version = "0.1.0"
 
 [[package]]
@@ -142,6 +158,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "rand_core 0.3.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
+
+[[package]]
+name = "variables"
+version = "0.1.0"
 
 [[package]]
 name = "winapi"
