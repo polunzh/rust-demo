@@ -27,6 +27,10 @@ name = "control-flow"
 version = "0.1.0"
 
 [[package]]
+name = "enum_demo"
+version = "0.1.0"
+
+[[package]]
 name = "fuchsia-cprng"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -54,6 +58,10 @@ version = "0.1.0"
 name = "libc"
 version = "0.2.58"
 source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "match_demo"
+version = "0.1.0"
 
 [[package]]
 name = "ownership"

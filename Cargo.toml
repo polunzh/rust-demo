@@ -9,5 +9,7 @@ members = [
   "function",
   "control-flow",
   "ownership",
-  "slice"
-  ]
+  "slice",
+  "enum_demo",
+  "match_demo"
+]
